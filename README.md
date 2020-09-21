@@ -42,8 +42,8 @@ This is a one stop shop website that gives you everything you need to know about
 
 ## Links
 
-- Website: https://siegelal7.github.io/Find-Your-Adventure/
-- GitHub Repository: https://github.com/siegelal7/Find-Your-Adventure
+- Website: https://navdeepdp.github.io/Find-Your-Adventure/
+- GitHub Repository: https://github.com/NavdeepDP/Find-Your-Adventure
 
 ## Design Elements
 
